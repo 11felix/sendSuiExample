@@ -1,4 +1,4 @@
---> You can start this project by using (npm start)
+--> You can start this project by using (npm install) and then (npm start)
 --> Then you can connect your wallet, accept all permissions and send some SUI to a wallet
 --> right now the wallet address to which SUI goes to is hard-coded.
 
